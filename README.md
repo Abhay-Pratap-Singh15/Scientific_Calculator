@@ -26,3 +26,5 @@ This is a Java Swing-based scientific calculator that supports basic and advance
 - JDBC (for database interaction)
 
 ---
+#Screenshots
+https://github.com/Abhay-Pratap-Singh15/Scientific_Calculator/blob/b6e8e7567ee1829868ba8f7943969af2efabd711/Screenshot%20(1).png
